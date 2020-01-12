@@ -1,0 +1,13 @@
+<!--
+ *
+ * Pablo Bautista © 2018
+ * CSD 230 - Proof Sheet 2
+ *
+ *
+-->
+<resources>
+    <string name="app_name">ProofSheet2</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="overflow">Overflow</string>
+</resources>

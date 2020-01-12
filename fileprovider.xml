@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ *
+ * Pablo Bautista © 2018
+ * CSD 230 - Proof Sheet 2
+ *
+ *
+-->
+<paths>
+
+    <external-files-path
+        name="images"
+        path="Pictures"/>
+
+    <external-path name="all_dirs" path="."/>
+
+</paths>

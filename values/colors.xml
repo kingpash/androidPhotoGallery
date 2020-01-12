@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ *
+ * Pablo Bautista © 2018
+ * CSD 230 - Proof Sheet 2
+ *
+ *
+-->
+<resources>
+    <color name="colorPrimary">#eceeed</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+</resources>
